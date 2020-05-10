@@ -1,23 +1,21 @@
-# terminal
+# Bitmex terminal
 
 ## Project setup
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and hot-reloads for development client
 ```
 yarn serve
 ```
-
-### Compiles and minifies for production
+### Compiles and hot-reloads for development server
 ```
-yarn build
+yarn server
 ```
-
-### Lints and fixes files
+### Compiles and hot-reloads for development client + server
 ```
-yarn lint
+yarn dev
 ```
 
 ### Customize configuration
